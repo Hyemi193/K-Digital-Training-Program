@@ -27,7 +27,7 @@ Building predictive models using Scikit-learn.
 Image processing and recognition using OpenCV and machine learning models.  
 
 ### 8. Deep_Learning  
-Developing neural networks with TensorFlow/Keras.  
+Developing neural networks using PyTorch, including convolutional neural networks for binary image classification tasks.
 
 ### 9. NLP (Natural Language Processing)  
 Processing and analyzing text data using NLP techniques.  
